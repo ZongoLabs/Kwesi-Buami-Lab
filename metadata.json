@@ -1,0 +1,7 @@
+{
+  "name": "OmniTools: Global Productivity Hub",
+  "description": "An indispensable suite of advanced productivity and utility tools. OmniTools offers quick solutions to everyday digital tasks, presented through a clean, intuitive, and world-class user interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
